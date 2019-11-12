@@ -1,2 +1,3 @@
 # Image compressor
- A Image compresser made using python
+ A Simple Image compresser made using python
+ 
