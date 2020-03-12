@@ -1,4 +1,4 @@
-# Image compressor
+# PDF compressor
  A Simple Image compresser made using python
  [Download Link for exe file](https://www.dropbox.com/s/h7wlkeprhxi4bsu/main.exe?dl=0)
 
